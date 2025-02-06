@@ -7,11 +7,11 @@ The key objectives include:
 - Understanding trends in patient visits based on time (days, months, and years).
 - Measuring hospital performance through KPIs like admission rate, wait time, and satisfaction rate.
 
-## Dataset used
+## 📋Dataset used
 - <a href="https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/Location%20Table.csv">Dataset 1</a>
 - <a href="https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/Trip%20Details.xlsx">Dataset 2</a>
 
-## Questions (KPIs)
+## ❔Questions (KPIs)
 - What is the total number of patients for the selected year?
 - What is the hospital admission rate compared to total patient visits?
 - What is the average wait time for patients?
@@ -20,7 +20,7 @@ The key objectives include:
 - Which hospital departments receive the most referrals?
 - What is the gender distribution of patients?
 
- ## Dashboard Interaction
+ ## 📊Dashboard Interaction
  <a href="https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/uber.pbix">View Dashboard</a>
 
 ## ✏️Process
@@ -39,7 +39,7 @@ The key objectives include:
 ## Dashboard
 
 ![Screenshot (495)](https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/Screenshot%202025-01-16%20113041.png)
-## Project Insight
+## 🎯 Project Insight
 - **Peak Patient Visits**: The highest number of patient visits occur on Fridays and Saturdays.
   
 - **Age Group Analysis**: The 60 & above age group has the highest patient count (485), followed by the 19 & below category (458).
@@ -52,10 +52,10 @@ The key objectives include:
   
 - **Patient Racial Demographics**: The Native American patient group has the highest representation (306), followed by Pacific Islanders (295).
 
-## Final Conclusion:
+## 💡Final Conclusion:
 This Power BI Hospital Analytics Dashboard provides an in-depth view of patient demographics, hospital efficiency, and referral trends. By leveraging these insights, hospital administrators can optimize resource allocation, improve patient satisfaction, and enhance operational efficiency:
 
-## Future Enhancement
+## 🚀Future Enhancement
 - Implementing predictive analytics to forecast patient inflow.
 
 - Adding real-time data integration for live tracking.

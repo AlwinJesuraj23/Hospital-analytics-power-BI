@@ -37,7 +37,7 @@ The key objectives include:
   
 ## Dashboard
 
-![Screenshot (495)](https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/Screenshot%202025-01-16%20113041.png)
+![Screenshot (495)](https://github.com/AlwinJesuraj23/Hospital-analytics-power-BI/blob/main/Screenshot%202025-02-06%20192437.png)
 ## 🎯 Project Insight
 - **Peak Patient Visits**: The highest number of patient visits occur on Fridays and Saturdays.
   

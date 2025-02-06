@@ -8,8 +8,7 @@ The key objectives include:
 - Measuring hospital performance through KPIs like admission rate, wait time, and satisfaction rate.
 
 ## 📋Dataset used
-- <a href="https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/Location%20Table.csv">Dataset 1</a>
-- <a href="https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/Trip%20Details.xlsx">Dataset 2</a>
+- <a href="https://github.com/AlwinJesuraj23/Hospital-analytics-power-BI/blob/main/Hospital_ER_Dashboard_2021_2023_Final.csv">Dataset </a>
 
 ## ❔Questions (KPIs)
 - What is the total number of patients for the selected year?

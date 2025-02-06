@@ -34,12 +34,12 @@ The key objectives include:
 
 ![Screenshot (495)](https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/Screenshot%202025-01-16%20113041.png)
 ## Project Insight
-- High-Demand Locations: Penn Station and Upper East Side are the top locations with the most trips.
-- Peak Time: Most trips occur during late afternoon and early evening (peak hours).
-- Payment Trends: Uber Pay dominates as the primary payment method.
-- Day vs. Night: A majority of trips are conducted during the day (91.3%), with limited night shift activity (8.7%).
-- Weekly Pattern: Weekdays (especially Monday to Friday) witness higher trip volumes compared to weekends.
-
+- **Peak Patient Visits**: The highest number of patient visits occur on Fridays and Saturdays.
+- **Age Group Analysis**: The 60 & above age group has the highest patient count (485), followed by the 19 & below category (458).
+- **Admission Trends**: The hospital's admission rate is 49.72%, indicating nearly half of the patients require hospital care.
+- **Gender Distribution**: 57.24% of the patients are female, while 42.76% are male.
+- **Top Departments**: The General Practice, Cardiology, and Neurology departments receive the most patient referrals.
+- **Patient Racial Demographics**: The Native American patient group has the highest representation (306), followed by Pacific Islanders (295).
 
 ## Final Conclusion:
 The Uber Analytics dashboard highlights key operational metrics and trends essential for strategic decision-making. By understanding peak demand times, high-traffic locations, and preferred payment methods, Uber can:

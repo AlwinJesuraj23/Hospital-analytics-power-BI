@@ -20,7 +20,7 @@ The key objectives include:
 - What is the gender distribution of patients?
 
  ## 📊Dashboard Interaction
- <a href="https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/uber.pbix">View Dashboard</a>
+ <a href="https://github.com/AlwinJesuraj23/Hospital-analytics-power-BI/blob/main/Hospital%20Dashboard.pbix">View Dashboard</a>
 
 ## ✏️Process
 - **Data Collection** : Gather raw patient data including admission status, age, gender, race, department referrals, wait times, and satisfaction scores.

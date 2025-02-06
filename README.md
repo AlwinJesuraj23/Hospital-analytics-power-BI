@@ -24,7 +24,7 @@ The key objectives include:
  <a href="https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/uber.pbix">View Dashboard</a>
 
 ## Process
-** Data Collection**: Gather raw patient data including admission status, age, gender, race, department referrals, wait times, and satisfaction scores.
+** Data Collection** : Gather raw patient data including admission status, age, gender, race, department referrals, wait times, and satisfaction scores.
 
 Data Cleaning & Preparation: Ensure data accuracy by handling missing values, standardizing data formats, and removing duplicates.
 

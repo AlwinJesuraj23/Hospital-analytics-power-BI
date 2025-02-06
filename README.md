@@ -24,14 +24,17 @@ The key objectives include:
  <a href="https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/uber.pbix">View Dashboard</a>
 
 ## Process
-- Data Collection: Extract data from Uber's ride database or provided dataset.
-- Data Cleaning: Remove inconsistencies and ensure accuracy in metrics such as fare, time, and distance.
-- Dashboard Design: Utilize Power BI to design and organize visual elements like bar charts, pie charts, and line graphs.
-- Filtering Options: Implement slicers to filter data by day, time, and location for focused analysis.
-- KPI Calculation: Compute metrics such as total trips, fare, distance, and duration.
-- Insight Generation: Interpret visual trends to derive actionable insights.
-- Validation: Ensure the dashboard accurately reflects the dataset.
+-** Data Collection: Gather raw patient data including admission status, age, gender, race, department referrals, wait times, and satisfaction scores.
 
+Data Cleaning & Preparation: Ensure data accuracy by handling missing values, standardizing data formats, and removing duplicates.
+
+Data Modeling: Structure the dataset to create meaningful relationships and enable smooth visual representation in Power BI.
+
+Dashboard Creation: Develop visualizations for KPIs using charts, graphs, and filters to improve usability.
+
+Insights & Optimization: Analyze trends and refine visuals for better understanding and storytelling.
+
+Deployment & Sharing: Publish the dashboard for stakeholders and decision-makers.
 ## Dashboard
 
 ![Screenshot (495)](https://github.com/AlwinJesuraj23/power-BI-projects/blob/main/Screenshot%202025-01-16%20113041.png)

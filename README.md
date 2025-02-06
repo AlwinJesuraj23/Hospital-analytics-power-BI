@@ -3,8 +3,11 @@
 This Power BI project aims to provide an insightful Hospital Analytics Dashboard to analyze patient demographics, hospital performance, and department referrals. 
 The key objectives include:
 - Tracking total patient count and admission rates.
+  
 - Analyzing patient demographics by age, gender, race, and department referrals.
+  
 - Understanding trends in patient visits based on time (days, months, and years).
+  
 - Measuring hospital performance through KPIs like admission rate, wait time, and satisfaction rate.
 
 ## 📋Dataset used
@@ -12,11 +15,17 @@ The key objectives include:
 
 ## ❔Questions (KPIs)
 - What is the total number of patients for the selected year?
+  
 - What is the hospital admission rate compared to total patient visits?
+  
 - What is the average wait time for patients?
+  
 - How does patient distribution vary across different age groups and races?
+  
 - Which days of the week see the highest patient inflow?
+  
 - Which hospital departments receive the most referrals?
+  
 - What is the gender distribution of patients?
 
  ## 📊Dashboard Interaction
